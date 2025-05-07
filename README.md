@@ -1,3 +1,6 @@
+## 🔗 Live Demo:
+[**Visit the Nexius Landing Page**](https://asushko25.github.io/nexius-site/src/)
+
 # Nexius Landing Page
 
 ## Project Description:
@@ -11,5 +14,4 @@ The **Nexius Landing Page** is a modern, responsive webpage designed to showcase
 ## Highlights:
 The landing page demonstrates a balance between informative content and sleek design, reflecting the professionalism and innovation of the **Nexius** brand.
 
-## 🔗 Live Demo:
-[**Visit the Nexius Landing Page**](https://asushko25.github.io/nexius-site/src/)
+
